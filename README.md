@@ -33,3 +33,8 @@
   
 ## :shipit: Interested in
 - **Front-end** :white_check_mark:
+
+<details>
+<summary>Top secret</summary>
+<img src="https://i.pinimg.com/736x/30/ae/8e/30ae8ea26fb0d639700765c921c73967.jpg">
+</details>
