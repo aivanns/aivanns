@@ -27,7 +27,7 @@
 - Frontend-разработка ✅
 
 ## 🎵 Сейчас играет
-[![Spotify](https://novatorem-spotify-aivanns.vercel.app/api/spotify)](https://open.spotify.com/user/31sohftjn6hqvjsnwfowopj2aweu)
+[![Spotify](https://novatorem-gz831s5cw-aivanns-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31sohftjn6hqvjsnwfowopj2aweu)
 
 ## 📊 GitHub статистика
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aivanns&show_icons=true&theme=dark)
