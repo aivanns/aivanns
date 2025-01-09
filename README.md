@@ -27,7 +27,7 @@
 - Frontend-разработка ✅
 
 ## 🎵 Сейчас играет
-[![Spotify](https://novatorem-taupe-eight.vercel.app/api/spotify)](https://novatorem-taupe-eight.vercel.app/api/spotify)
+[![Spotify](https://novatorem-taupe-eight.vercel.app/api/spotify)](https://open.spotify.com/user/31sohftjn6hqvjsnwfowopj2aweu)
 
 ## 📊 GitHub статистика
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aivanns&show_icons=true&theme=dark)
